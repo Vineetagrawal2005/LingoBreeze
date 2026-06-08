@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "389508884327",
+    "project_id": "lingobreeza",
+    "storage_bucket": "lingobreeza.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389508884327:android:ed384083ce8e087fa6f1c2",
+        "android_client_info": {
+          "package_name": "com.example.lingobrezza"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxsI27d-NcvvzKo3_wh0_6HUQvBoHIUdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
